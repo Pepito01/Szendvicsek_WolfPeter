@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="list" type="id" />
+    <item name="searchbackButton" type="id" />
+    <item name="backButton" type="id" />
+    <item name="pickButton" type="id" />
+    <item name="searchButton" type="id" />
+    <item name="newButton" type="id" />
+</resources>
